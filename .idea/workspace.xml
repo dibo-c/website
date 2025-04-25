@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a09187bf-fa76-417f-9a35-27a59b7fcf34" name="Changes" comment="BRAND NEW 1.1">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/lightgallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/lightgallery.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/mediaelementplayer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/flaticon/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/flaticon/font/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/flaticon/font/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/flaticon/license/license.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/icomoon/Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/icomoon/demo-files/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/icomoon/demo-files/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/icomoon/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/icomoon/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/icomoon/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/icomoon/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/icomoon/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/icomoon/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/icomoon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/lg/lg.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/lg/lg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/lg/lg.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/fonts/lg/lg.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/bootstrap-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/jquery.countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/jquery.mousewheel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/lightgallery-all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/mediaelement-and-player.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/picturefill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/_site-base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/_site-blocks.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/_site-navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/bootstrap/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photon/single.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dibo-c&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dibo-c/website.git&quot;,
+    &quot;accountId&quot;: &quot;1dbeeb60-4363-4019-a1b9-3d33f394e1c7&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2oMXo3H9fBl0qy3eJIutVUWY3bq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/crowa/IdeaProjects/website/photon/images/7 travel",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "build.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\crowa\IdeaProjects\website\photon\images\7 travel" />
+      <recent name="C:\Users\crowa\IdeaProjects\website\photon\images\6 setting" />
+      <recent name="C:\Users\crowa\IdeaProjects\website\photon\images\3 people" />
+      <recent name="C:\Users\crowa\IdeaProjects\website\photon" />
+      <recent name="C:\Users\crowa\IdeaProjects\website\photon\images\4 band" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\crowa\IdeaProjects\website" />
+      <recent name="C:\Users\crowa\IdeaProjects\website\images\thumbs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="website" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="website" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a09187bf-fa76-417f-9a35-27a59b7fcf34" name="Changes" comment="" />
+      <created>1730680589892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730680589892</updated>
+    </task>
+    <task id="LOCAL-00001" summary="b term 1">
+      <option name="closed" value="true" />
+      <created>1730751952069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730751952069</updated>
+    </task>
+    <task id="LOCAL-00002" summary="BRAND NEW 1">
+      <option name="closed" value="true" />
+      <created>1745621189397</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745621189397</updated>
+    </task>
+    <task id="LOCAL-00003" summary="BRAND NEW 2">
+      <option name="closed" value="true" />
+      <created>1745621725074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745621725074</updated>
+    </task>
+    <task id="LOCAL-00004" summary="BRAND NEW 3">
+      <option name="closed" value="true" />
+      <created>1745622849552</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745622849552</updated>
+    </task>
+    <task id="LOCAL-00005" summary="BRAND NEW 1.1">
+      <option name="closed" value="true" />
+      <created>1745623542316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745623542316</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="b term 1" />
+    <MESSAGE value="BRAND NEW 1" />
+    <MESSAGE value="BRAND NEW 2" />
+    <MESSAGE value="BRAND NEW 3" />
+    <MESSAGE value="BRAND NEW 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="BRAND NEW 1.1" />
+  </component>
+</project>
